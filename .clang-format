@@ -1,0 +1,13 @@
+# BasedOnStyle: LLVM
+# IndentWidth: 4
+# BreakBeforeBraces: Linux
+# AllowShortIfStatementsOnASingleLine: false
+# IndentCaseLabels: false
+# ColumnLimit: 80
+
+# ---
+BasedOnStyle: LLVM
+IndentWidth: 4
+AlignConsecutiveDeclarations: false
+ColumnLimit: 80
+# ...
