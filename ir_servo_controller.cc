@@ -9,7 +9,6 @@
 
 extern "C" {
 #include "nec_receive.h"
-#include "nec_transmit.h" // include the library headers
 }
 
 #include "Servo.h"
